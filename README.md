@@ -2,11 +2,8 @@
 
 > A JSON serializer/deserializer (with JsonSchema support) library written in pure C#.
 
-[![ci](https://github.com/yutopp/VJson/actions/workflows/ci.yml/badge.svg)](https://github.com/yutopp/VJson/actions/workflows/ci.yml)
-[![npm](https://img.shields.io/npm/v/net.yutopp.vjson)](https://www.npmjs.com/package/net.yutopp.vjson)
-[![NuGet Badge](https://buildstats.info/nuget/vjson)](https://www.nuget.org/packages/VJson/)
-[![codecov](https://codecov.io/gh/yutopp/VJson/branch/master/graph/badge.svg)](https://codecov.io/gh/yutopp/VJson)
-[![license](https://img.shields.io/github/license/yutopp/VJson.svg)](https://github.com/yutopp/VJson/blob/master/LICENSE_1_0.txt)
+[![npm](https://img.shields.io/npm/v/net.yutopp.vjson)](https://www.npmjs.com/package/mu.cluster.vjson)
+[![license](https://img.shields.io/github/license/yutopp/VJson.svg)](https://github.com/ClusterVR/VJson/blob/master/LICENSE_1_0.txt)
 
 `VJson` is a JSON serializer/deserializer (with JsonSchema support) library written in pure C#. Supported versions are `.NET Standard 2.0` or higher.  
 This library is developed as a purely C# project, however it also supports that be build with `Unity 2019.4.22f1` or higher.
