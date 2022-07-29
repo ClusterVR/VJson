@@ -47,7 +47,7 @@ Add a url for VJson git repository to your `Packages/manifest.json` like below.
 ```json
 {
   "dependencies": {
-    "mu.cluster.vjson": "https://github.com/yutopp/VJson.git?path=Packages/net.yutopp.vjson"
+    "mu.cluster.vjson": "https://github.com/ClusterVR/VJson.git?path=Packages/mu.cluster.vjson"
   }
 }
 ```
@@ -138,7 +138,7 @@ var v = serializer.Deserialize("{\"X\":10,\"Y\":\"abab\"}");
 
 (TODO: Write examples)
 
-Other use cases are available at [here](https://github.com/yutopp/VJson/tree/master/Assets/VJson/Editor/Tests).
+Other use cases are available at [here](https://github.com/ClusterVR/VJson/tree/master/Assets/VJson/Editor/Tests).
 
 ## Tasks
 
