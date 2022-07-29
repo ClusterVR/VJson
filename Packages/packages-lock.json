@@ -34,8 +34,8 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-    "net.yutopp.vjson": {
-      "version": "file:net.yutopp.vjson",
+    "mu.cluster.vjson": {
+      "version": "file:mu.cluster.vjson",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}

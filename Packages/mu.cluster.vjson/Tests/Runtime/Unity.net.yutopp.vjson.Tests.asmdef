@@ -1,7 +1,7 @@
 {
-    "name": "Unity.net.yutopp.vjson.Tests",
+    "name": "Unity.mu.cluster.vjson.Tests",
     "references": [
-        "Unity.net.yutopp.vjson",
+        "Unity.mu.cluster.vjson",
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner"
     ],

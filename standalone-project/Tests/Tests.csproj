@@ -25,7 +25,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="../../Packages/net.yutopp.vjson/Tests/Runtime/**/*.cs" />
+    <Compile Include="../../Packages/mu.cluster.vjson/Tests/Runtime/**/*.cs" />
   </ItemGroup>
 
   <Target Name="CopyCustomContent" AfterTargets="AfterBuild">

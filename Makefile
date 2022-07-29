@@ -1,6 +1,6 @@
 PROJECT_NAME:=VJson
 
-PACKAGE_NAME:=net.yutopp.vjson
+PACKAGE_NAME:=mu.cluster.vjson
 PACKAGE_DIR:=Packages/${PACKAGE_NAME}
 PACKAGE_JSON_PATH:=${PACKAGE_DIR}/package.json
 
