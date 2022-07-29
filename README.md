@@ -13,14 +13,6 @@ This library is developed as a purely C# project, however it also supports that 
 
 ## Installation
 
-### For standard C# projects
-
-You can use [Nuget/VJson](https://www.nuget.org/packages/VJson/).
-
-```bash
-dotnet add package VJson
-```
-
 ### For Unity projects
 
 #### stable
@@ -31,22 +23,22 @@ Add scoped registry information shown below to your `Packages/manifest.json` if 
 {
   "scopedRegistries": [
     {
-      "name": "yutopp.net",
+      "name": "Cluster",
       "url": "https://registry.npmjs.com",
       "scopes": [
-        "net.yutopp"
+        "mu.cluster"
       ]
     }
   ]
 }
 ```
 
-And add `net.yutopp.vjson` to your `Packages/manifest.json` like below.
+And add `mu.cluster.vjson` to your `Packages/manifest.json` like below.
 
 ```json
 {
   "dependencies": {
-    "net.yutopp.vjson": "*"
+    "mu.cluster.vjson": "*"
   }
 }
 ```
@@ -58,7 +50,7 @@ Add a url for VJson git repository to your `Packages/manifest.json` like below.
 ```json
 {
   "dependencies": {
-    "net.yutopp.vjson": "https://github.com/yutopp/VJson.git?path=Packages/net.yutopp.vjson"
+    "mu.cluster.vjson": "https://github.com/yutopp/VJson.git?path=Packages/net.yutopp.vjson"
   }
 }
 ```
